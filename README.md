@@ -1,4 +1,4 @@
-## Hi there, I'm Aitor Sempere 👋
+Hi there, I'm Aitor Sempere 👋
 
 Un apasionado **Administrador de Sistemas, Redes y Ciberseguridad** con sólida experiencia en entornos críticos (Linux, Windows Server) e infraestructura IT. Actualmente ampliando mis fronteras cursando un Máster en Ciberseguridad para blindar entornos tecnológicos.
 
